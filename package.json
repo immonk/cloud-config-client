@@ -32,5 +32,8 @@
     "mocha": "^7.2.0",
     "nyc": "^15.0.1",
     "standard": "^14.3.4"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.2.0"
   }
 }
